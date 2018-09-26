@@ -17,7 +17,6 @@
 		59CAB10F20E3A031009D9E04 /* OPTLYManagerTVOSSwiftTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59CAB10E20E3A031009D9E04 /* OPTLYManagerTVOSSwiftTest.swift */; };
 		5D77CDB078EEE875A8E7E166 /* Pods_OptimizelySDKTVOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8EFA4250F9002309C272F47 /* Pods_OptimizelySDKTVOSTests.framework */; };
 		90DE4D8B215B7DF8004DC958 /* OptimizelySDKUserProfileService.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E0027701ECBC0100072DDAD /* OptimizelySDKUserProfileService.framework */; };
-		90DE4D92215B81F7004DC958 /* OptimizelySDKTVOS-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EA2FA7281DC1FA9F00B1D81B /* OptimizelySDKTVOS-Info.plist */; };
 		EA2FA72E1DC1FAA000B1D81B /* OptimizelySDKTVOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2FA7241DC1FA9F00B1D81B /* OptimizelySDKTVOS.framework */; };
 		EA2FA7331DC1FAA000B1D81B /* OptimizelySDKTVOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA2FA7321DC1FAA000B1D81B /* OptimizelySDKTVOSTests.m */; };
 		EA2FA7351DC1FAA000B1D81B /* OptimizelySDKTVOS.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2FA7271DC1FA9F00B1D81B /* OptimizelySDKTVOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -511,7 +510,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90DE4D92215B81F7004DC958 /* OptimizelySDKTVOS-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
